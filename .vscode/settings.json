@@ -1,0 +1,6 @@
+{
+    "python.jediEnabled": false,
+    "python.languageServer": "Microsoft"
+}
+
+// https://stackoverflow.com/questions/53939751/pylint-unresolved-import-error-in-visual-studio-code
